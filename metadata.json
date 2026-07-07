@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: MancsKiskönyv",
+  "description": "Digitális egészségügyi kiskönyv és pénzügyi követő házi kedvencek számára.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
