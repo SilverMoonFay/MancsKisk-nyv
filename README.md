@@ -6,6 +6,40 @@ Az alkalmazás kiemelkedő funkciója a **Gemini AI integráció**, amely segít
 
 ---
 
+## 📲 Gyors letöltés és telepítés telefonra (Android APK)
+
+Ha szeretnéd az alkalmazást azonnal telepíteni a telefonodra fejlesztői környezet és számítógép nélkül, kövesd az alábbi lépéseket:
+
+1. **Letöltés:** Nyisd meg az alábbi linket a telefonod böngészőjében az alkalmazás közvetlen letöltéséhez:
+   👉 **[MancsKiskönyv APK Letöltése](https://github.com/SilverMoonFay/MancsKisk-nyv/raw/main/MancsKiskonyv.apk)**
+2. **Telepítés:** Koppints a letöltött `MancsKiskonyv.apk` fájlra a telefonodon.
+3. **Engedélyezés:** Ha a telefonod jelzi, hogy ismeretlen forrásból származik:
+   * Engedélyezd a telepítést a beállításokban az adott alkalmazásnak (pl. Chrome vagy a Fájlkezelőd).
+   * Ha a Google Play Protect rákérdez, válaszd a **"Telepítés mindenképpen"** (Install anyway) lehetőséget (ez teljesen normális a saját készítésű, nem Play Áruházból letöltött tesztalkalmazásoknál).
+4. **Kész is!** Az alkalmazás ikonja megjelenik a kezdőképernyőn, és azonnal használhatod.
+
+---
+
+## 💻 Futtatás számítógépen (Windows / Mac)
+
+Ha számítógépen szeretnéd használni vagy tesztelni az alkalmazást, két rendkívül egyszerű lehetőséged van:
+
+### 1. Azonnali futtatás böngészőből (Felhőalapú emulátor) – A legegyszerűbb!
+Nem kell semmit telepítened vagy letöltened. Az alábbi linken keresztül megnyílik egy komplett virtuális Android telefon a böngésződben (Chrome, Edge, Firefox stb.), ahol azonnal, teljes funkciójában interaktívan futtathatod az alkalmazást Windows, Mac vagy Linux gépekről is:
+👉 **[MancsKiskönyv Azonnali Futtatása a Böngészőben](https://ais-pre-eim3de4f4c4ap4feyr32ql-537644078935.europe-west2.run.app)**
+
+### 2. Helyi futtatás asztali emulátorral (Gyors és stabil)
+Ha szeretnéd, hogy az alkalmazás önálló programként fusson a számítógépeden:
+1. Tölts le és telepíts egy ingyenes Android emulátort Windowsra vagy Macre:
+   * **[BlueStacks](https://www.bluestacks.com/)** (Ajánlott)
+   * **[NoxPlayer](https://www.bignox.com/)**
+   * **[LDPlayer](https://www.ldplayer.net/)**
+2. Töltsd le a gépedre a **[MancsKiskönyv APK fájlt](https://github.com/SilverMoonFay/MancsKisk-nyv/raw/main/MancsKiskonyv.apk)**.
+3. Egyszerűen húzd át (Drag & Drop) a letöltött `MancsKiskonyv.apk` fájlt a megnyitott emulátor ablakába.
+4. Az emulátor másodpercek alatt telepíti, és már indíthatod is az asztalodról!
+
+---
+
 ## 🌟 Főbb funkciók
 
 ### 1. 🐱 Kedvencek profilja és növekedéskövetés
