@@ -6,22 +6,6 @@ Az alkalmazás kiemelkedő funkciója a **Gemini AI integráció**, amely segít
 
 ---
 
-## 📲 Gyors letöltés és telepítés telefonra (Android APK)
-
-Ha szeretnéd az alkalmazást azonnal telepíteni a telefonodra fejlesztői környezet és számítógép nélkül, kövesd az alábbi lépéseket:
-
-1. **Letöltés:** Nyisd meg az alábbi linket a telefonod böngészőjében az alkalmazás közvetlen letöltéséhez:
-   👉 **[MancsKiskönyv APK Letöltése](https://github.com/SilverMoonFay/MancsKisk-nyv/raw/main/MancsKiskonyv.apk)**
-2. **Telepítés:** Koppints a letöltött `MancsKiskonyv.apk` fájlra a telefonodon.
-3. **Engedélyezés:** Ha a telefonod jelzi, hogy ismeretlen forrásból származik:
-   * Engedélyezd a telepítést a beállításokban az adott alkalmazásnak (pl. Chrome vagy a Fájlkezelőd).
-   * Ha a Google Play Protect rákérdez, válaszd a **"Telepítés mindenképpen"** (Install anyway) lehetőséget (ez teljesen normális a saját készítésű, nem Play Áruházból letöltött tesztalkalmazásoknál).
-4. **Kész is!** Az alkalmazás ikonja megjelenik a kezdőképernyőn, és azonnal használhatod.
-
-*(Megjegyzés számítógépes futtatáshoz: Ha PC-n szeretnéd futtatni, töltsd le az APK-t, és nyisd meg egy ingyenes Android emulátorban, mint például a BlueStacks vagy a NoxPlayer).*
-
----
-
 ## 🌟 Főbb funkciók
 
 ### 1. 🐱 Kedvencek profilja és növekedéskövetés
