@@ -1,0 +1,23 @@
+MANCSKISKÖNYV – TELEPÍTÉSI ÚTMUTATÓ 🐾
+
+Ezzel az útmutatóval könnyedén telepítheted a MancsKiskönyv alkalmazást bármilyen Androidos okostelefonra!
+
+1. AZ APK FÁJL LETÖLTÉSE
+- Ebben a fejlesztői felületben (AI Studio) a bal oldali fájlkezelőben keresd meg az `app-debug.apk` fájlt (vagy az `APK_DOWNLOAD/app-debug.apk` mappában lévő verziót).
+- Kattints rá jobb gombbal, majd válaszd a "Download" (Letöltés) lehetőséget a számítógépedre.
+- Másold át a letöltött `.apk` fájlt a telefonodra (pl. USB kábelen, Google Drive-on, Messengeren, e-mailben, vagy bármilyen más megosztással).
+
+2. TELEPÍTÉS A TELEFONON
+- Nyisd meg a telefonodon a Fájlkezelő (My Files / Files) alkalmazást, és keresd meg a kapott `app-debug.apk` fájlt.
+- Koppints rá a telepítés elindításához.
+- Ha a telefonod jelzi, hogy "Ismeretlen forrásokból származó alkalmazások telepítése le van tiltva":
+  - Válaszd a "Beállítások" (Settings) opciót a felugró ablakban.
+  - Engedélyezd a telepítést az adott forrásból (pl. a Chrome-ból vagy a Fájlkezelőből, amivel megnyitottad).
+- Menj vissza, koppints újra a telepítésre, majd válaszd a "Telepítés" (Install) gombot.
+- Ha a Google Play Protect figyelmeztetést küld, hogy "Ismeretlen fejlesztő", válaszd a "Telepítés mindenképpen" (Install anyway) lehetőséget (ez teljesen normális a saját fejlesztésű, nem Play Áruházból letöltött tesztalkalmazásoknál).
+
+3. AZ ALKALMAZÁS HASZNÁLATA
+- A telepítés befejezése után koppints a "Megnyitás" (Open) gombra.
+- Kész is! A MancsKiskönyv ikonja megjelent a telefonod kezdőképernyőjén vagy az alkalmazásmenüben, és azonnal használható!
+
+🐾 Jó kisállat-gondozást kívánunk!

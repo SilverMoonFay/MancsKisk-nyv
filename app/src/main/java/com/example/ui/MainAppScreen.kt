@@ -811,7 +811,7 @@ fun MainAppScreen(viewModel: PetViewModel) {
                                         putExtra(Intent.EXTRA_SUBJECT, "MancsKiskönyv alkalmazás letöltése")
                                         putExtra(
                                             Intent.EXTRA_TEXT,
-                                            "Szia! Ezzel a linkkel töltheted le és használhatod a MancsKiskönyv alkalmazást a kedvenceid egészségének és kiadásainak egyszerű követéséhez:\nhttps://ais-pre-eim3de4f4c4ap4feyr32ql-537644078935.europe-west2.run.app"
+                                            "Szia! Szeretném megosztani veled a MancsKiskönyv alkalmazást, amivel könnyedén nyomon követheted a kisállataid egészségét, oltásait és kiadásait!\n\n🌐 Próbáld ki a böngésződben (azonnal induló emulátor):\nhttps://ais-pre-eim3de4f4c4ap4feyr32ql-537644078935.europe-west2.run.app\n\n📲 Telepítsd közvetlenül a telefonodra (Android APK letöltés):\nhttps://github.com/SilverMoonFay/MancsKisk-nyv/raw/main/MancsKiskonyv.apk"
                                         )
                                     }
                                     val chooser = Intent.createChooser(shareIntent, "Alkalmazás megosztása:")
