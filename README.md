@@ -45,24 +45,6 @@ A MancsKiskönyv a legmodernebb Android-fejlesztési irányelveket és technoló
 
 ---
 
-## 🚀 Telepítés és fejlesztés indítása
-
-1. **Klónozd a tárat:**
-   ```bash
-   git clone <repository_url>
-   ```
-2. **Nyisd meg Android Studio-ban:**
-   Importáld a projektet a legfrissebb Android Studio verzióval.
-3. **Konfiguráld a Gemini API kulcsot:**
-   * Nyisd meg az **AI Studio Secrets** panelt vagy hozz létre egy `.env` fájlt a projekt gyökerében.
-   * Add hozzá a saját API kulcsodat:
-     ```env
-     GEMINI_API_KEY=saját_gemini_api_kulcsod
-     ```
-4. **Futtasd az alkalmazást:**
-   Válassz ki egy fizikai eszközt vagy emulátort, majd kattints a **Run** gombra!
-
----
 
 ## 📊 Fejlesztők és hozzájárulás
 
